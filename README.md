@@ -25,3 +25,7 @@ Per-read resolution — Outputs individual read-level repeat pattern breakdowns 
 Flexible locus definition — User-specified repeat motifs and flanking region coordinates
 
 Dual VCF output — Separate files for per-read details and aggregated pattern frequency statistics
+
+<p align="center">
+  COMING SOON - SPRING 2026
+</p>
