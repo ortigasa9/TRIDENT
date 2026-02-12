@@ -19,6 +19,9 @@ TRIDENT performs tandem repeat (TR) genotyping using PacBio HiFi reads that span
 Key Features
 
 HiFi-optimized — Designed for PacBio HiFi long-read sequencing data
+
 Per-read resolution — Outputs individual read-level repeat pattern breakdowns with quality scores
+
 Flexible locus definition — User-specified repeat motifs and flanking region coordinates
+
 Dual VCF output — Separate files for per-read details and aggregated pattern frequency statistics
