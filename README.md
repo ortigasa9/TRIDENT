@@ -2,7 +2,7 @@
   <img src="assets/LOGO.png" alt="TRIDENT Logo" width="500">
 </p>
 <p align="center">
-  <strong>Tandem Repeat Identification and Genotyping from Long-Read Sequencing Data</strong>
+  <strong>Tandem Repeat Intrasample Diversity Estimation and Normalization Tool</strong>
 </p>
 <p align="center">
   <a href="#installation"><img src="https://img.shields.io/badge/install-instructions-blue?style=flat-square" alt="Install"></a>
