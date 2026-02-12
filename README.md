@@ -27,5 +27,5 @@ Flexible locus definition — User-specified repeat motifs and flanking region c
 Dual VCF output — Separate files for per-read details and aggregated pattern frequency statistics
 
 <p align="center">
-  COMING SOON - SPRING 2026
+  <strong>COMING SOON - SPRING 2026</strong>
 </p>
